@@ -8,6 +8,7 @@ public class RestApiUnitTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RestApiUnitTestApplication.class, args);
+		System.out.println("Hello World!!");
 	}
 
 }
